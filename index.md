@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dozyauto/phukienoto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Giới thiệu phụ kiện Ô Tô Dozy Auto
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+** Dozyauto.vn Giới thiệu phụ kiện ô tô Dozy Auto, công ty chuyên cung cấp các linh phụ kiện ô tô chính hãng, bảo hành trọn đời như gương gập điện ô tô, dán phim cách nhiệt ô tô, bọc ghế lái ô tô, camera lùi . Cửa hàng hiện có 2 chi nhánh ở địa bàn thành phố Hồ Chí Minh. Thông tin liên hệ:**
 
-### Markdown
+**— Điện thoại :**  [0916975998](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**— Email:**  [dozyauto@gmail.com](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-```markdown
-Syntax highlighted code block
+**— Địa chỉ**
 
-# Header 1
-## Header 2
-### Header 3
+- Cơ sở 1: Số 42 đường Vĩnh Phú, Phường Vĩnh Phú,Thị xã Thuận An, tỉnh Bình Dương.
 
-- Bulleted
-- List
+— Cơ sở 2: 385B quốc lộ 13, Phường Hiệp Bình Phước, Quận Thủ Đức, Thành phố Hồ Chí Minh.
 
-1. Numbered
-2. List
+### Social
 
-**Bold** and _Italic_ and `Code` text
+- Website: [https://dozyauto.vn/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-[Link](url) and ![Image](src)
-```
+Blog : [https://dozyautovn.blogspot.com/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Twitter:  [https://twitter.com/PhuDozy](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-### Jekyll Themes
+Linkedin: [https://www.linkedin.com/in/ph%E1%BB%A5-ki%E1%BB%87n-%C3%B4-t%C3%B4-dozy-auto-244969207/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dozyauto/phukienoto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pinterest: [https://www.pinterest.com/dozyautovn/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-### Support or Contact
+Tumblr: [https://www.tumblr.com/blog/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Soundcloud: [https://soundcloud.com/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
+
+Flickr: [https://www.flickr.com/people/192468828@N05/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
+
+Goodreads: [https://www.goodreads.com/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
+
+Gavatar: [https://vi.gravatar.com/phukiendozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
+
+About: https://about.me/kuesports/
+
+WordPress: [https://phukienotodozy.wordpress.com/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
+
+angellist: https://angel.co/u/kuesports
+
+behance https://www.behance.net/kuesports
+
+Dribble: https://dribbble.com/kuesports/about
+
+flipboard: https://flipboard.com/@kuesports/kuesports-qta41rsvy
+
+kickstarter: https://www.kickstarter.com/profile/kuesports/about
+
+Reddit: https://www.reddit.com/user/kuesports
+
+producthunt: https://www.producthunt.com/@kuesports
+
+skillshare: https://www.skillshare.com/user/kuesports
+
+vimeo: https://vimeo.com/kuesports
+
+Quora: https://fr.quora.com/profile/Esports-Ku
+
+youtube: https://www.youtube.com/channel/UCm8axxhBZoMbR0A_apQ_chw/about
