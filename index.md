@@ -16,24 +16,24 @@
 ### Social
 
 - Website: https://dozyauto.vn/
-Blog : https://dozyautovn.blogspot.com/
-Twitter: https://twitter.com/PhuDozy
-LInkedin:              https://www.linkedin.com/in/ph%E1%BB%A5-ki%E1%BB%87n-%C3%B4-t%C3%B4-dozy-auto-244969207/
-Pinterest:    https://www.pinterest.com/dozyautovn/
-Tumblr:  https://www.tumblr.com/blog/dozyauto
-Soundcloud:        https://soundcloud.com/dozyauto
-Flickr:    https://www.flickr.com/people/192468828@N05/
-Goodreads:         https://www.goodreads.com/dozyauto
-Gavatar:              https://vi.gravatar.com/phukiendozyauto
-About:                https://about.me/phukienoto
-Github :             https://dozyauto.github.io/phukienoto/
-WordPress:         https://phukienotodozy.wordpress.com/
-angellist:              https://angel.co/u/phukienotodozy
-behance               https://www.behance.net/phukienotodozy
-Dribble:              https://dribbble.com/dozyauto
-kickstarter:          https://www.kickstarter.com/profile/phukienoto/about
-Reddit:             https://www.reddit.com/user/phukienotodozy
-producthunt:      https://www.producthunt.com/@phukienotodozy
-skillshare:            https://www.skillshare.com/user/phukienoto
-vimeo:                https://vimeo.com/dozyauto
-youtube:              https://www.youtube.com/channel/UC7AuvxUftETzqonTwmtYXnA
+- Blog : https://dozyautovn.blogspot.com/
+- Twitter: https://twitter.com/PhuDozy
+- LInkedin:              https://www.linkedin.com/in/ph%E1%BB%A5-ki%E1%BB%87n-%C3%B4-t%C3%B4-dozy-auto-244969207/
+- Pinterest:    https://www.pinterest.com/dozyautovn/
+- Tumblr:  https://www.tumblr.com/blog/dozyauto
+- Soundcloud:        https://soundcloud.com/dozyauto
+- Flickr:    https://www.flickr.com/people/192468828@N05/
+- Goodreads:         https://www.goodreads.com/dozyauto
+- Gavatar:              https://vi.gravatar.com/phukiendozyauto
+- About:                https://about.me/phukienoto
+- Github :             https://dozyauto.github.io/phukienoto/
+- WordPress:         https://phukienotodozy.wordpress.com/
+- angellist:              https://angel.co/u/phukienotodozy
+- behance               https://www.behance.net/phukienotodozy
+- Dribble:              https://dribbble.com/dozyauto
+- kickstarter:          https://www.kickstarter.com/profile/phukienoto/about
+- Reddit:             https://www.reddit.com/user/phukienotodozy
+- producthunt:      https://www.producthunt.com/@phukienotodozy
+- skillshare:            https://www.skillshare.com/user/phukienoto
+- vimeo:                https://vimeo.com/dozyauto
+- youtube:              https://www.youtube.com/channel/UC7AuvxUftETzqonTwmtYXnA
