@@ -15,48 +15,25 @@
 
 ### Social
 
-- Website: [https://dozyauto.vn/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Blog : [https://dozyautovn.blogspot.com/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Twitter:  [https://twitter.com/PhuDozy](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Linkedin: [https://www.linkedin.com/in/ph%E1%BB%A5-ki%E1%BB%87n-%C3%B4-t%C3%B4-dozy-auto-244969207/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Pinterest: [https://www.pinterest.com/dozyautovn/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Tumblr: [https://www.tumblr.com/blog/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Soundcloud: [https://soundcloud.com/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Flickr: [https://www.flickr.com/people/192468828@N05/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Goodreads: [https://www.goodreads.com/dozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-Gavatar: [https://vi.gravatar.com/phukiendozyauto](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-About: https://about.me/kuesports/
-
-WordPress: [https://phukienotodozy.wordpress.com/](https://draft.blogger.com/blog/post/edit/3599278395286766387/727687704288473533#)
-
-angellist: https://angel.co/u/kuesports
-
-behance https://www.behance.net/kuesports
-
-Dribble: https://dribbble.com/kuesports/about
-
-flipboard: https://flipboard.com/@kuesports/kuesports-qta41rsvy
-
-kickstarter: https://www.kickstarter.com/profile/kuesports/about
-
-Reddit: https://www.reddit.com/user/kuesports
-
-producthunt: https://www.producthunt.com/@kuesports
-
-skillshare: https://www.skillshare.com/user/kuesports
-
-vimeo: https://vimeo.com/kuesports
-
-Quora: https://fr.quora.com/profile/Esports-Ku
-
-youtube: https://www.youtube.com/channel/UCm8axxhBZoMbR0A_apQ_chw/about
+- Website: https://dozyauto.vn/
+Blog : https://dozyautovn.blogspot.com/
+Twitter: https://twitter.com/PhuDozy
+LInkedin:              https://www.linkedin.com/in/ph%E1%BB%A5-ki%E1%BB%87n-%C3%B4-t%C3%B4-dozy-auto-244969207/
+Pinterest:    https://www.pinterest.com/dozyautovn/
+Tumblr:  https://www.tumblr.com/blog/dozyauto
+Soundcloud:        https://soundcloud.com/dozyauto
+Flickr:    https://www.flickr.com/people/192468828@N05/
+Goodreads:         https://www.goodreads.com/dozyauto
+Gavatar:              https://vi.gravatar.com/phukiendozyauto
+About:                https://about.me/phukienoto
+Github :             https://dozyauto.github.io/phukienoto/
+WordPress:         https://phukienotodozy.wordpress.com/
+angellist:              https://angel.co/u/phukienotodozy
+behance               https://www.behance.net/phukienotodozy
+Dribble:              https://dribbble.com/dozyauto
+kickstarter:          https://www.kickstarter.com/profile/phukienoto/about
+Reddit:             https://www.reddit.com/user/phukienotodozy
+producthunt:      https://www.producthunt.com/@phukienotodozy
+skillshare:            https://www.skillshare.com/user/phukienoto
+vimeo:                https://vimeo.com/dozyauto
+youtube:              https://www.youtube.com/channel/UC7AuvxUftETzqonTwmtYXnA
